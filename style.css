@@ -14,7 +14,7 @@ body{
 }
 .caculator{
   width: 324px;
-  cursor: pointer;
+  
   padding: 20px;
   background-color: #39383d;
   border-radius: 8px;
@@ -32,6 +32,7 @@ body{
 }
 
 input[type=button]{
+  cursor: pointer;
   width: 75px;
   height: 75px;
   margin: 2px;
